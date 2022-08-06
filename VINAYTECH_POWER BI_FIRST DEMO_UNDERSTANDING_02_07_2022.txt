@@ -1,3 +1,5 @@
+Today: Major changes in the demo document
+
 Today Live Practice Session For Small Project
 Data:	
 	Anything you are able to store is called data.
@@ -5,7 +7,7 @@ Data:
 	a) Structured Data: Data in the form of tables / sheets [column by column format]
 			Ex: Excel Data, Table Data...
 	b) Semi-Structured data: Data not fully structured.
-			Ex: Log info, Event Viewer, Audit info...
+			Ex: Log info, Event Viewer, Audit info, Statistics etc.
 
 			Text files, JSON Files, XML files etc.
 	c) Unstructured data:
